@@ -1,5 +1,5 @@
 mod solutions;
 fn main() {
-    solutions::cf1928b::works();
+    solutions::cf1948c::works();
    
 }
